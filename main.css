@@ -137,6 +137,7 @@ p, h1, h3, a {
     display: grid;
     align-items: center;
     background-color: var(--bacground-boton-entrar);
+    margin-bottom: 90px;
     
 }
 
